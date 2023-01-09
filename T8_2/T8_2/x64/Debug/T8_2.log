@@ -1,0 +1,18 @@
+﻿  T8_2.cpp
+D:\OOP\Tema_8\T8_2\T8_2\T8_2.cpp(11,43): warning C4244: 'return': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\OOP\Tema_8\T8_2\T8_2\T8_2.cpp(11,1): message : while compiling class template member function 'T ComplexNumber<T>::getModule(void) const'
+          with
+          [
+              T=int
+          ]
+D:\OOP\Tema_8\T8_2\T8_2\T8_2.cpp(15,9): message : see reference to function template instantiation 'T ComplexNumber<T>::getModule(void) const' being compiled
+          with
+          [
+              T=int
+          ]
+D:\OOP\Tema_8\T8_2\T8_2\T8_2.cpp(35,26): message : see reference to class template instantiation 'ComplexNumber<int>' being compiled
+  T8_2.vcxproj -> D:\OOP\Tema_8\T8_2\x64\Debug\T8_2.exe
